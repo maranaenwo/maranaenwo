@@ -11,6 +11,5 @@ Frontend:    React · Chrome Extensions (Manifest V3)
 AI/ML:       Claude API · LangChain · Computer Vision
 Tools:       Playwright · Docker · Git · Stripe · node-cron
 <!--
-**maranaenwo/maranaenwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
